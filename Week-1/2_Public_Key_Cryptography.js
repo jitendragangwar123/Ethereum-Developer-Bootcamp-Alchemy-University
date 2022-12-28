@@ -48,7 +48,8 @@ describe('Hash Message', () => {
 /*
 Sign Message :-
             To sign a message using our private key to prove our intention!
-Steps:-
+Steps:
+
 1.When signing a message with secp256k1 we can return the signature along with the recovery bit, 
 allowing us to recover the public key from the signature. This will allow a blockchain node to take a signature of a transaction 
 and understand which address authenticated this particular transaction.
@@ -190,6 +191,7 @@ Public Key to Address :-
 */
 
 //getAddress.js
+
 const secp = require("ethereum-cryptography/secp256k1");
 const { keccak256 } = require("ethereum-cryptography/keccak");
 
