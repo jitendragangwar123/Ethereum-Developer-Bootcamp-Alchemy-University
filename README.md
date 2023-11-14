@@ -3,5 +3,5 @@
 
 ## Table Of Contents 
 - Week1 : [Blockchain Cryptography](https://github.com/jitendragangwar123/Ethereum-Developer-Bootcamp-Alchemy-University/tree/main/Week-1)
-        : [ECDSA-Node](https://github.com/jitendragangwar123/ECDSA-Node)
+        Project : [ECDSA-Node](https://github.com/jitendragangwar123/ECDSA-Node)
 - Week2 : [Blockchain Storage]()
