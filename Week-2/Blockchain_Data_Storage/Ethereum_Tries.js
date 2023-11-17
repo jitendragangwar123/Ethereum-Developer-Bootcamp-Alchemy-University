@@ -43,3 +43,8 @@ Ethereum Block Header:
     2. Transactions Root: the root hash of the block's transactions.
     3. Receipts Root: the root hash of the receipts trie.
 */
+
+
+/*
+Article: https://medium.com/shyft-network/understanding-trie-databases-in-ethereum-9f03d2c3325d
+*/
