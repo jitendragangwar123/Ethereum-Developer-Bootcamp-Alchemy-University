@@ -22,3 +22,23 @@ contract OnOffSwitch {
         return isOn;
     }
 }
+
+/*
+Compiler Version Control:
+    pragma solidity ^0.6.2;
+    The major version: x.0.0
+    The minor version: 0.x.0
+    The patch version: 0.0.x
+*/
+
+/*
+Control Structures:
+    function getValues() public pure returns (int, bool) {
+        return (49, true);
+    }
+*/
+
+/*
+Destructure:
+    (bool x, bool y) = (true, false);
+*/
