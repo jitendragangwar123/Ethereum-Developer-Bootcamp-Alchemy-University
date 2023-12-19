@@ -7,6 +7,6 @@ This repository contains all the coding exercises discussed during the Alchemy E
 - Week2 : [Blockchain Storage](https://github.com/jitendragangwar123/Ethereum-Developer-Bootcamp-Alchemy-University/tree/main/Week-2)
         Project: [Merkle Gift List](https://github.com/jitendragangwar123/Merkle-Tree-Gift-List)
 - Week3 : [Ethereum](https://github.com/jitendragangwar123/Ethereum-Developer-Bootcamp-Alchemy-University/tree/main/Week-3)
-        Project: [Ethereum Block Explorer]()
+        Project: [Ethereum Block Explorer](https://github.com/jitendragangwar123/Ethereum-Block-Explorer)
 - Week4 : [Smart Contract Basics](https://github.com/jitendragangwar123/Ethereum-Developer-Bootcamp-Alchemy-University/tree/main/Week-4)
         Project: [Smart Contract Winner]()
