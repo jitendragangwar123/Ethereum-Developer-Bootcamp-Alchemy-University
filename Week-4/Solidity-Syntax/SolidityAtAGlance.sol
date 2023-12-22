@@ -31,12 +31,10 @@ Compiler Version Control:
     The patch version: 0.0.x
 */
 
-/*
 Control Structures:
     function getValues() public pure returns (int, bool) {
         return (49, true);
     }
-*/
 
 /*
 Destructure:
